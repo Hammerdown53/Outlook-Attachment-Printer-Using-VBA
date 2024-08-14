@@ -37,4 +37,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 This script was created by Trey McBride.
 
-Feel free to customize and improve upon this script as needed for your use case. Enjoy printing your Outlook attachments!
+Feel free to customize and improve upon this script as needed for your use case. Enjoy printing your Outlook attachments at the click of a button!
