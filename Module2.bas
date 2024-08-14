@@ -3,10 +3,8 @@ Sub CleanUpTempFiles()
     Dim tempFolderPath As String
     Dim filePath As String
     
-    ' Get the Temp folder path
     tempFolderPath = Environ("Temp") & "\OutlookTempPDFs\"
 
-    ' Clean up the temp files
     On Error Resume Next
     filePath = Dir(tempFolderPath & "*.pdf")
     Do While filePath <> ""
